@@ -30,7 +30,7 @@ header {
     content: "";
     position: absolute;
     width: 100%;
-    height: 10vh;
+    height: 10%;
 }
 
 .pic:before {
