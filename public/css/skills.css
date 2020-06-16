@@ -378,6 +378,9 @@ svg circle:nth-child(2) {
 /*(760 x x)*/
 
 @media screen and (max-width: 760px) {
+    .progressCircle {
+        height: auto;
+    }
     .container {
         width: 100%;
     }
